@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Trailer-Promotion/static/css/main.d3fc83c6.css",
+    "main.js": "/Trailer-Promotion/static/js/main.0424f0fc.js",
+    "static/media/video-1.mp4": "/Trailer-Promotion/static/media/video-1.59e75226d30ad48f9ede.mp4",
+    "index.html": "/Trailer-Promotion/index.html",
+    "main.d3fc83c6.css.map": "/Trailer-Promotion/static/css/main.d3fc83c6.css.map",
+    "main.0424f0fc.js.map": "/Trailer-Promotion/static/js/main.0424f0fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3fc83c6.css",
+    "static/js/main.0424f0fc.js"
+  ]
+}
